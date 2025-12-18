@@ -43,3 +43,5 @@ http://localhost:8000/docs
 
 Front:
 http://localhost:8000/healthz
+
+_Last update: 2025-12-18 18:25_
