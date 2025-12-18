@@ -1,4 +1,5 @@
 # Aynaz To-Do (Full-Stack)
+![UI](docs/screenshots/ui.png)
 
 A full-stack To-Do application with a pastel UI and a production-style backend implementing complete CRUD operations.
 
